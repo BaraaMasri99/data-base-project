@@ -20,7 +20,7 @@ SMILE Stock models the core operations of a retail/supply business:
 
 The database design is based on the following Entity-Relationship Diagram:
 
-![SMILE Stock ERD](ERD.png)
+![SMILE Stock ERD](![alt text](ERD.png))
 
 ---
 
